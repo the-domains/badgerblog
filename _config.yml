@@ -1,6 +1,6 @@
 name: Badgerblog
 favicon: null
-layout_spectrum: 0.9409452674444765
+layout_spectrum: 0.92822
 typography_spectrum: 0.7560835594777018
 cta:
   domain: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#3C493F'
-    - '#7E8D85'
-    - '#B3BFB8'
-    - '#F0F7F4'
-    - '#A2E3C4'
-  brandStrength: 0.9842481042724103
-  lightness: 0.18576618819497526
-  saturation: 0.6760174364317209
-  rhythmicContrast: 0.784939389443025
+    - '#ffffff'
+    - '#d08700'
+    - '#321400'
+    - '#007700'
+    - '#924e0c'
+  brandStrength: 0.125
+  lightness: 0.625
+  saturation: 0.1875
+  rhythmicContrast: 0.5
 purpose: []
