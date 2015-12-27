@@ -2,6 +2,7 @@ name: Badgerblog
 favicon: null
 layout_spectrum: 0.92822
 typography_spectrum: 0.14728
+title: jennes blog
 cta:
   domain: null
   bucket: null
