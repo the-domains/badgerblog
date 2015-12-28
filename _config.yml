@@ -1,29 +1,18 @@
-name: Badgerblog
-favicon: null
-layout_spectrum: 0.87871
-typography_spectrum: 0.14728
-title: jennes blog
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+analytics: {}
 color:
   brandColors:
-    - '#ffffff'
-    - '#d08700'
-    - '#321400'
-    - '#007700'
-    - '#924e0c'
-  brandStrength: 1
-  lightness: 0.625
+    - '#000000'
+    - '#185010'
+    - '#000000'
+    - '#C8D090'
+    - '#C8E888'
+  brandStrength: 0.365991
+  lightness: 0.350225
+  rhythmicContrast: 0
   saturation: 0.1875
-  rhythmicContrast: 0.5
+cta: {}
+layout_spectrum: 1
+name: Badgerblog
+opengraph: {}
 purpose: []
+typography_spectrum: 0.532657
