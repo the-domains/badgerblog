@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Badgerblog]]></title>
         <description><![CDATA[Badgerblog]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/badgerblog/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 27 Dec 2015 23:10:48 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 22 Apr 2016 15:44:59 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/badgerblog/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Nut travels the world]]></title>
+            <description><![CDATA[<article><h1>Nut travels the world</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3acf6c71147e4ae124775974c640556e65406e04.jpg"></article>]]></description>
+            <link>https://thegrid.ai/badgerblog/nut-travels-the-world/index.html</link>
+            <guid isPermaLink="false">37428f02-c85c-4e38-a6ae-864426a840b7</guid>
+            <pubDate>Fri, 22 Apr 2016 15:44:58 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[20 ch ri st ma si nc he mn it z 15]]></title>
-            <description><![CDATA[<article><h1>20 ch ri st ma si nc he mn it z 15</h1><p>christmas in chemnitz 2015</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/bef24b6238b90c99b0788e0e0eb5db6fc46dd4dd.jpg"></article>]]></description>
-            <link>undefined20-ch-ri-st-ma-si-nc-he-mn-it-z-15/index.html</link>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/eef154be-f92c-4f06-986e-4e2b9db6428d.jpg">]]></description>
+            <link>https://thegrid.ai/badgerblog/20-ch-ri-st-ma-si-nc-he-mn-it-z-15/index.html</link>
             <guid isPermaLink="false">deab9de7-d809-442b-9f99-10272189aaff</guid>
             <pubDate>Sun, 27 Dec 2015 23:10:41 GMT</pubDate>
         </item>
